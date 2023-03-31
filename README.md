@@ -9,7 +9,7 @@ In addition to helping you improve your search engine ranking, structured data c
 
 Overall, Meetanshi’s Restaurant Schema Generator is a valuable tool that can help you improve your online presence and attract more customers. If you’re looking for a way to get started with structured data, this is a great place to begin.
 
-##Here are some additional details about the Restaurant Schema Generator:
+## Here are some additional details about the Restaurant Schema Generator:
 * It is free to use.
 * It is easy to use. Simply enter some basic information about your restaurant and the tool will generate the code for you.
 * It is effective. Structured data can help you improve your search engine ranking and collect more leads.
